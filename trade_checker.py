@@ -347,7 +347,7 @@ def calculate_deferral_time(n_clicks, strip_inflation, issuer_country, issue_cur
     
     eu_dmo_message =  html.Div([
         html.Img(src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg", style={'height': '20px', 'width': 'auto'}),
-        html.Span("Depending on specific DMO, trade might be eligible for a 6 months defferal")
+        html.Span("Depending on specific DMO, trade might be eligible for a 6 months deferral")
     ])      
     
 
